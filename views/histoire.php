@@ -25,7 +25,7 @@
   <div class="card">
     <img class="card-img-top" src="/Historia/images/asie.png" alt="Card image cap">
     <div class="card-body">
-      <h2 class="card-title" style="text-align: center;">Asie</h2>
+      <h2 class="card-title" style="text-align: center;">Asies</h2>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       <a href="#" class="btn btn-primary">Cliquez ici</a>
     </div> 
