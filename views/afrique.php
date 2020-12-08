@@ -346,7 +346,7 @@
     <div class="card-body">
       <h2 class="card-title" style="text-align: center;">Histoire de la Namibie</h2>
     </div>
-   <a href="#" class="btn btn-primary" >Cliquez ici</a>
+   <a href="namibie.php" class="btn btn-primary" >Cliquez ici</a>
   </div>
 
   <div class="card">
